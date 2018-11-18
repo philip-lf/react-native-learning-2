@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Text, View } from 'react-native';
 
@@ -17,7 +16,7 @@ const styles = {
         backgroundColor: 'yellow',
         justifyContent: 'center',
         alignItems: 'center',
-        height: 90,
+        height: 60,
         paddingTop: 30,
         shadowColor: 'black',
         shadowOffset: { width: 0, height: 2 },
@@ -26,7 +25,7 @@ const styles = {
         position: 'relative'
     },
     textSyle: {
-        fontSize: 30
+        fontSize: 20
     }
 };
 
